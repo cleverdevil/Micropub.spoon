@@ -1,8 +1,6 @@
 --- === Micropub ===
 ---
 --- Publish content to a Micropub endpoint. 
----
---- Download: [https://github.com/Hammerspoon/Spoons/raw/master/Spoons/Calendar.spoon.zip](https://github.com/Hammerspoon/Spoons/raw/master/Spoons/Calendar.spoon.zip)
 
 local obj={}
 obj.__index = obj
